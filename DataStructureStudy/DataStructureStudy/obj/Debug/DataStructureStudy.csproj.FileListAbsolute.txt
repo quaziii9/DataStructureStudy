@@ -1,0 +1,7 @@
+C:\Users\cocou\OneDrive\바탕 화면\은주\gameprograming\DataStructureStudy\DataStructureStudy\DataStructureStudy\bin\Debug\DataStructureStudy.exe.config
+C:\Users\cocou\OneDrive\바탕 화면\은주\gameprograming\DataStructureStudy\DataStructureStudy\DataStructureStudy\bin\Debug\DataStructureStudy.exe
+C:\Users\cocou\OneDrive\바탕 화면\은주\gameprograming\DataStructureStudy\DataStructureStudy\DataStructureStudy\bin\Debug\DataStructureStudy.pdb
+C:\Users\cocou\OneDrive\바탕 화면\은주\gameprograming\DataStructureStudy\DataStructureStudy\DataStructureStudy\obj\Debug\DataStructureStudy.csproj.AssemblyReference.cache
+C:\Users\cocou\OneDrive\바탕 화면\은주\gameprograming\DataStructureStudy\DataStructureStudy\DataStructureStudy\obj\Debug\DataStructureStudy.csproj.CoreCompileInputs.cache
+C:\Users\cocou\OneDrive\바탕 화면\은주\gameprograming\DataStructureStudy\DataStructureStudy\DataStructureStudy\obj\Debug\DataStructureStudy.exe
+C:\Users\cocou\OneDrive\바탕 화면\은주\gameprograming\DataStructureStudy\DataStructureStudy\DataStructureStudy\obj\Debug\DataStructureStudy.pdb
